@@ -1,3 +1,5 @@
+# Ended up using much more powerful LXML module instead
+
 import xml.etree.ElementTree as ET
 import re
 
